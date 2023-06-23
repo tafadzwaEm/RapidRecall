@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RapidRecall/static/css/main.3b2294a3.css",
+    "main.js": "/RapidRecall/static/js/main.bc3fa6a0.js",
+    "index.html": "/RapidRecall/index.html",
+    "main.3b2294a3.css.map": "/RapidRecall/static/css/main.3b2294a3.css.map",
+    "main.bc3fa6a0.js.map": "/RapidRecall/static/js/main.bc3fa6a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b2294a3.css",
+    "static/js/main.bc3fa6a0.js"
+  ]
+}
