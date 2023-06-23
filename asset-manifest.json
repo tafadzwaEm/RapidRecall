@@ -1,13 +1,20 @@
 {
   "files": {
     "main.css": "/RapidRecall/static/css/main.3b2294a3.css",
-    "main.js": "/RapidRecall/static/js/main.bc3fa6a0.js",
+    "main.js": "/RapidRecall/static/js/main.b678c027.js",
+    "static/media/helmet-1.JPG": "/RapidRecall/static/media/helmet-1.84ffb0dcfb488d4677f1.JPG",
+    "static/media/sword.jpg": "/RapidRecall/static/media/sword.36046e16972fc8d61871.jpg",
+    "static/media/potion.jpg": "/RapidRecall/static/media/potion.513be1cabc92bbb44aee.jpg",
+    "static/media/scroll.jpg": "/RapidRecall/static/media/scroll.d58cb1380b4d49308e23.jpg",
+    "static/media/shield.jpg": "/RapidRecall/static/media/shield.ee7801ff9a0da0b9c8c3.jpg",
+    "static/media/ring.jpg": "/RapidRecall/static/media/ring.da2a92f4a8fc2ec53c3f.jpg",
+    "static/media/cover.jpg": "/RapidRecall/static/media/cover.3fa6fc7179be8138b4a3.jpg",
     "index.html": "/RapidRecall/index.html",
     "main.3b2294a3.css.map": "/RapidRecall/static/css/main.3b2294a3.css.map",
-    "main.bc3fa6a0.js.map": "/RapidRecall/static/js/main.bc3fa6a0.js.map"
+    "main.b678c027.js.map": "/RapidRecall/static/js/main.b678c027.js.map"
   },
   "entrypoints": [
     "static/css/main.3b2294a3.css",
-    "static/js/main.bc3fa6a0.js"
+    "static/js/main.b678c027.js"
   ]
 }
