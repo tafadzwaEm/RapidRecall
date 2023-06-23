@@ -3,13 +3,21 @@ import './App.css';
 import Card from './components/Card';
 import PlayerName from './components/PlayerName';
 
+import helmet from'./img/helmet-1.JPG'
+import portion from './img/potion.jpg'
+import ring from './img/ring.jpg'
+import scroll from './img/scroll.jpg'
+import shield from './img/shield.jpg'
+import sword from './img/sword.jpg'
+
+
 const cardImages = [
-  {'src':'/img/helmet-1.jpg', matched: false},
-  {'src':'/img/potion.jpg', matched: false},
-  {'src':'/img/ring.jpg', matched: false},
-  {'src':'/img/scroll.jpg', matched: false},
-  {'src':'/img/shield.jpg', matched: false},
-  {'src':'/img/sword.jpg', matched: false},
+  {'src':helmet, matched: false},
+  {'src':portion, matched: false},
+  {'src':ring, matched: false},
+  {'src':scroll, matched: false},
+  {'src':shield, matched: false},
+  {'src':sword, matched: false},
 ]
 
 function App() {

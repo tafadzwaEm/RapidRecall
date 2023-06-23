@@ -1,4 +1,5 @@
 import React from 'react'
+import cover from '../img/cover.jpg'
 
 const Card = ({card, handleChoice,flipped, disabled}) => {
     const handleClick = () => {
@@ -11,7 +12,7 @@ const Card = ({card, handleChoice,flipped, disabled}) => {
     <div className="card">
     <div className={flipped ? "flipped" : ""}>
         <img className='front' src={card.src} alt="card front" />
-        <img src="/img/cover.jpg" 
+        <img src={cover} 
         alt="card back" 
         onClick={handleClick} 
         className="back" />
